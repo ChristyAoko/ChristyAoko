@@ -11,9 +11,9 @@
 ## 🛠 Tech Stack
 Include but not limited to: 
 
-* 💻 Languages: Angular, TypeScript, Python, Java, C++, PL/SQL  
-* 🌐 Web: HTML5, CSS3, JavaScript
-* ⚙️ Tools: Git, GitHub, Gerrit, Jira
+* 💻 Languages: Angular, TypeScript, Python, Java, C++, PL/SQL, Spring Boot, RESTful APIs  
+* 🌐 Web: HTML5, CSS3, JavaScript, Bootstrap
+* ⚙️ Tools: Git, GitHub, Gerrit, Jira, Postman, Jenkins, Docker
 
 ## 🤝 Let's Connect
 
